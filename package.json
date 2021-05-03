@@ -1,0 +1,29 @@
+{
+  "name": "telednd",
+  "version": "1.0.0",
+  "description": "Telegram bot for our D&D GM to DM players",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "pyraxo",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyraxo/telednd.git"
+  },
+  "keywords": [
+    "telegram",
+    "d&d",
+    "tabletop",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/pyraxo/telednd/issues"
+  },
+  "homepage": "https://github.com/pyraxo/telednd#readme"
+}
